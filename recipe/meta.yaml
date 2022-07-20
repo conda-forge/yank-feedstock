@@ -32,7 +32,7 @@ requirements:
     - docopt
     - openmoltools >=0.7.5
     - mpiplus
-    - pyyaml
+    - pyyaml <6.0
     - clusterutils
     - cerberus >=1.3
     - matplotlib-base
@@ -64,3 +64,4 @@ extra:
     - jaimergp
     - jchodera
     - ijpulidos 
+    - mikemhenry
